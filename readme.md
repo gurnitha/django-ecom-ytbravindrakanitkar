@@ -18,10 +18,18 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
 		gurnitha/django-ecom-ytbravindrakanitkar
         modified:   readme.md
 
+#### 3. Membuat app 'apps/core' dan meregistrasinya pada proyek/settings.py
 
 
-
-
+        new file:   apps/core/__init__.py
+        new file:   apps/core/admin.py
+        new file:   apps/core/apps.py
+        new file:   apps/core/models.py
+        new file:   apps/core/tests.py
+        new file:   apps/core/views.py
+        modified:   config/settings.py
+        new file:   db.sqlite3
+        modified:   readme.md
 
 
 
