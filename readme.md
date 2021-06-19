@@ -31,8 +31,10 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         new file:   db.sqlite3
         modified:   readme.md
 
+#### 4. Membuat database menggunakan PostgreSQL dan menghubungkannya dengan proyek 
 
-
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
