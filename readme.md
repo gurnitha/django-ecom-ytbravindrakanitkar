@@ -48,10 +48,15 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
 
         modified:   readme.md
 
+#### 7. Menggunakan django Views, Templates, dan Urls untuk menampilkan 'Halo dunia django' 
 
 
-
-
+        new file:   apps/core/urls.py
+        modified:   apps/core/views.py
+        modified:   config/settings.py
+        modified:   config/urls.py
+        modified:   readme.md
+        new file:   templates/core/index.html
 
 
 
