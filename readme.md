@@ -2,7 +2,9 @@
 
 https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
 
-#### 1. Inisialisasi proyek django bernama CONFIG
+### 1. BASICS SETUP 
+
+#### 1.1. Inisialisasi proyek django bernama CONFIG
 
         new file:   .gitignore
         new file:   config/__init__.py
@@ -13,12 +15,12 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         new file:   manage.py
         new file:   readme.md
 
-#### 2. Membuat remote repository di Github 
+#### 1.2. Membuat remote repository di Github 
 
 		gurnitha/django-ecom-ytbravindrakanitkar
         modified:   readme.md
 
-#### 3. Membuat app 'apps/core' dan meregistrasinya pada proyek/settings.py
+#### 1.3. Membuat app 'apps/core' dan meregistrasinya pada proyek/settings.py
 
 
         new file:   apps/core/__init__.py
@@ -31,24 +33,24 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         new file:   db.sqlite3
         modified:   readme.md
 
-#### 4. Membuat database menggunakan PostgreSQL dan menghubungkannya dengan proyek 
+#### 1.4. Membuat database menggunakan PostgreSQL dan menghubungkannya dengan proyek 
 
         modified:   config/settings.py
         modified:   readme.md
 
 
-#### 5. Membuat dan menggunakan Environment Variable untuk db 
+#### 1.5. Membuat dan menggunakan Environment Variable untuk db 
 
         modified:   .gitignore
         modified:   config/settings.py
         modified:   readme.md
 
 
-#### 6. Membuat superuser
+#### 1.6. Membuat superuser
 
         modified:   readme.md
 
-#### 7. Menggunakan django Views, Templates, dan Urls untuk menampilkan 'Halo dunia django' 
+#### 1.7. Menggunakan django Views, Templates, dan Urls untuk menampilkan 'Halo dunia django' 
 
 
         new file:   apps/core/urls.py
@@ -58,7 +60,7 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   readme.md
         new file:   templates/core/index.html
 
-#### 8. Mensetup static files 
+#### 1.8. Mensetup static files 
 
         modified:   config/settings.py
         modified:   readme.md
@@ -67,13 +69,15 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         new file:   static/assets/img/clients/client-1.png
         new file:   static/assets/img/clients/client-2.png
 
-#### 9. Menambahkan home template dan load static file 
+#### 1.9. Menambahkan home template dan load static file 
 
         modified:   readme.md
         modified:   templates/core/index.html
 
 
+#### 1.10. Modifikasi file readme.md
 
+        modified:   readme.md
 
 
 
