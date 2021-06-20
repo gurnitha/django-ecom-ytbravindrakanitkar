@@ -110,9 +110,11 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         new file:   templates/accounts/register.html
         modified:   templates/core/index.html
 
+#### 2.4 Menambahkan form pada halaman login dan register
 
-
-
+        modified:   readme.md
+        modified:   templates/accounts/login.html
+        modified:   templates/accounts/register.html
 
 
 
