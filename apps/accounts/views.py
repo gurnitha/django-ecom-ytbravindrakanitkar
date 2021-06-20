@@ -16,7 +16,7 @@ def user_login(request):
 	# jika form disubmit atau Login button diklik
 	if request.method == "POST":	
 		username 	= request.POST.get('username')
-		email 		= request.POST.get('email')
+		password 	= request.POST.get('password')
 		user = authenticate(username=username,password=password)
 		if user is not None: # if the user is known 
 			login(request,user)
@@ -81,4 +81,5 @@ def user_register(request):
 
 # Logout
 def user_logout(request):
-	pass 
+	logout(request) 
+	return redirect('/')

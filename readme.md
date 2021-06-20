@@ -136,7 +136,12 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
          3. Jika user exists, maka akan di-redirect ke halaman register
          4. Untuk sementara, message poin 3 hanya bisa dilihat di code terminal    
 
+#### 2.7 Membetulkan error dan membuat Log out 
 
+        modified:   apps/accounts/views.py
+        modified:   readme.md
+        modified:   templates/accounts/login.html
+        modified:   templates/core/index.html
 
 
 
