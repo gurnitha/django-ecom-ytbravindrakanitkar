@@ -93,9 +93,12 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   readme.md
 
 
+#### 2.2 Menggunakan User models dengan menanmbahkan ekstra fields padanya dan meregistrasinya pada admin.py 
 
-
-
+        modified:   apps/core/admin.py
+        new file:   apps/core/migrations/0001_initial.py
+        modified:   apps/core/models.py
+        modified:   readme.md
 
 
 
