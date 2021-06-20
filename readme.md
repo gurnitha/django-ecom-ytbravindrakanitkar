@@ -116,7 +116,12 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   templates/accounts/login.html
         modified:   templates/accounts/register.html
 
+#### 2.5 Menambahkan konditional pada user_register views
 
+        modified:   apps/accounts/views.py
+        modified:   readme.md
+        modified:   templates/accounts/login.html
+        modified:   templates/accounts/register.html
 
 
 

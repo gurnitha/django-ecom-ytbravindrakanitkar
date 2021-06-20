@@ -9,6 +9,7 @@
 </head>
 <body>
 	<form method="post">
+		{% csrf_token %}
 		<input 
 			type="username" 
 			name="username" 
@@ -38,14 +39,9 @@
 			name="phone" 
 			id="phone" 
 			placeholder="Phone number">
-
-		<input 
-			type="email" 
-			name="email" 
-			id="email">
 		
 		<button 
-			type="submit">Sumbit</button>
+			type="submit">Register</button>
 	</form>
 </body>
 </html>

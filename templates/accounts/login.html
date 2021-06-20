@@ -9,7 +9,7 @@
 </head>
 <body>
 	<form method="post">
-		
+		{% csrf_token %}
 		<input 
 			type="email" 
 			name="email" 
@@ -28,7 +28,7 @@
 			id="email">
 		
 		<button 
-			type="submit">Sumbit</button>
+			type="submit">Login</button>
 			
 	</form>
 </body>
