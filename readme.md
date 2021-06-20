@@ -44,9 +44,9 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   readme.md
 
 
+#### 6. Membuat superuser
 
-
-
+        modified:   readme.md
 
 
 
