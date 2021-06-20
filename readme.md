@@ -58,9 +58,14 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   readme.md
         new file:   templates/core/index.html
 
+#### 8. Mensetup static files 
 
-
-
+        modified:   config/settings.py
+        modified:   readme.md
+        new file:   static/assets/css/style.css
+        ...
+        new file:   static/assets/img/clients/client-1.png
+        new file:   static/assets/img/clients/client-2.png
 
 
 
