@@ -67,8 +67,10 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         new file:   static/assets/img/clients/client-1.png
         new file:   static/assets/img/clients/client-2.png
 
+#### 9. Menambahkan home template dan load static file 
 
-
+        modified:   readme.md
+        modified:   templates/core/index.html
 
 
 
