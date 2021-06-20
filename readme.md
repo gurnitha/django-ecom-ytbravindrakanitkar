@@ -37,8 +37,11 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   readme.md
 
 
+#### 5. Membuat dan menggunakan Environment Variable untuk db 
 
-
+        modified:   .gitignore
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 
