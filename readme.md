@@ -116,15 +116,25 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   templates/accounts/login.html
         modified:   templates/accounts/register.html
 
-#### 2.5 Menambahkan konditional pada user_register views
+#### 2.5 (Part 1) Menambahkan konditional pada user_register views
 
         modified:   apps/accounts/views.py
         modified:   readme.md
         modified:   templates/accounts/login.html
         modified:   templates/accounts/register.html
 
+#### 2.6 (Part 2) Menambahkan konditional pada user_register dan user_login views
 
 
+        modified:   apps/accounts/views.py
+        modified:   readme.md
+
+        NOTE:
+         1. User baru yg berhasil melakukan registrasi, ia akan langsung
+            atau secara otomatis login
+         2. Jika login berhasil, maka akan dialihkan ke home page    
+         3. Jika user exists, maka akan di-redirect ke halaman register
+         4. Untuk sementara, message poin 3 hanya bisa dilihat di code terminal    
 
 
 
