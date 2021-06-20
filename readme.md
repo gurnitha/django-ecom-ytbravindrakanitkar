@@ -79,7 +79,18 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
 
         modified:   readme.md
 
+### 2. USER AUTHENTICATION AND AUTORIZATION
 
+#### 2.1 Membuat app 'apps/accounts' dan registrasi ia pada settings.py
+
+        new file:   apps/accounts/__init__.py
+        new file:   apps/accounts/admin.py
+        new file:   apps/accounts/apps.py
+        new file:   apps/accounts/models.py
+        new file:   apps/accounts/tests.py
+        new file:   apps/accounts/views.py
+        modified:   config/settings.py
+        modified:   readme.md
 
 
 

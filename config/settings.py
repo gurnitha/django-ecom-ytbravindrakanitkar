@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # First party apps  
+    'apps.accounts.apps.AccountsConfig',
     'apps.core.apps.CoreConfig',
 ]
 
