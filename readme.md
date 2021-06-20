@@ -100,9 +100,15 @@ https://github.com/gurnitha/django-ecom-ytbravindrakanitkar
         modified:   apps/core/models.py
         modified:   readme.md
 
+#### 2.3 Membuat templates, views dan urls untuk login dan register
 
-
-
+        new file:   apps/accounts/urls.py
+        modified:   apps/accounts/views.py
+        modified:   config/urls.py
+        modified:   readme.md
+        new file:   templates/accounts/login.html
+        new file:   templates/accounts/register.html
+        modified:   templates/core/index.html
 
 
 
